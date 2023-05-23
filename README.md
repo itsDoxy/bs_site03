@@ -1,2 +1,2 @@
-# bs-site03
-Site bootstrap using existent template
+# Simple website using bootstrap as framework
+ - Bootstrap website using existent template.  Slightly changes on css.
